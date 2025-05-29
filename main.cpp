@@ -1,14 +1,17 @@
 #include <iostream>
 using namespace std;
 
-
-void bubbleSort{
-
+void bubbleSort
+{
 }
-void quickSort(){
-    
-    //
+void quickSort()
+{
 
+    //
+}
+
+void mergeSort()
+{
 }
 
 int main()
